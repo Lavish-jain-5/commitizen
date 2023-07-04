@@ -1,2 +1,4 @@
 """new file
 """
+
+print('aaa')
