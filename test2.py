@@ -3,9 +3,4 @@
 
 print('aaa')
 
-
-
-
-
-
 print('aaaaaaaaaaaaaaaaaaaaaaaaaaa')
