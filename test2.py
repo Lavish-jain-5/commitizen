@@ -4,8 +4,6 @@
 print('aaa')
 
 
-
-
 print('aaaaaaaaaaaaaaaaaaaaaaaaaaa')
 
 
